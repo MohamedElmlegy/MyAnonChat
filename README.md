@@ -21,11 +21,11 @@ This is an Android chat application that allows users to send and receive messag
 
 ## ScreenShots
 
-- ![App login screen](screenshots/app.png)
-- ![App sign up screen](screenshots/app.png)
-- ![App groups screen](screenshots/app.png)
-- ![App create group screen](screenshots/app.png)
-- ![App chat screen](screenshots/app.png)
+- ![App login screen](screenshots/login.png)
+- ![App sign up screen](screenshots/sign_up.png)
+- ![App groups screen](screenshots/groups.png)
+- ![App create group screen](screenshots/create_group.png)
+- ![App chat screen](screenshots/chat.png)
 
 
 
