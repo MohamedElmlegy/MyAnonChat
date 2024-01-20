@@ -20,14 +20,23 @@ This is an Android chat application that allows users to send and receive messag
 - Firebase Authentication
 
 ## ScreenShots
+- <img src="screenshots/login.jpeg" alt="App login screen" width="200px" height="300px">
+<br/>
+<br/>
 
-- ![App login screen](screenshots/chat.jpeg)
-- ![App sign up screen](screenshots/sign_up.jpeg)
-- ![App groups screen](screenshots/groups.jpeg)
-- ![App create group screen](screenshots/create_group.jpeg)
-- ![App chat screen](screenshots/chat.jpeg)
+- <img src="screenshots/sign_up.jpeg" alt="App sign up screen" width="200px" height="300px">
+<br/>
+<br/>
 
+- <img src="screenshots/groups.jpeg" alt="App groups screen" width="200px" height="300px">
+<br/>
+<br/>
 
+- <img src="screenshots/create_group.jpeg" alt="App create group screen" width="200px" height="300px">
+<br/>
+<br/>
+
+- <img src="screenshots/chat.jpeg" alt="App chat screen" width="200px" height="300px">
 
 
 ## License
