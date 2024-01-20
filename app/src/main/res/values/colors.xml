@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+
+    <color name="light_bubble_sender">#025BB4</color>
+    <color name="light_bubble_reciever">#180C2F</color>
+    <color name="light_text_sender">#180C2F</color>
+    <color name="light_text_reciever">#52025BB4</color>
+    <color name="text_light">#FF000000</color>
+
+    <color name="dark_bubble_sender">#FF9800</color>
+    <color name="dark_bubble_reciever">#15C51C</color>
+    <color name="dark_text_sender">#15C51C</color>
+    <color name="dark_text_reciever">#FF9800</color>
+    <color name="text_dark">#FFFFFFFF</color>
+
+    <color name="white">#FFFFFFFF</color>
+</resources>

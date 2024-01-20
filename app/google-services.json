@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610799466494",
+    "project_id": "anonymous-chat-app-57b1d",
+    "storage_bucket": "anonymous-chat-app-57b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610799466494:android:3744ccf9d58f3f518bf2af",
+        "android_client_info": {
+          "package_name": "com.example.myanonchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNYLYr7QV3_E07TiqVKVl_mRA2NrOSuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
