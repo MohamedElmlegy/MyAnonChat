@@ -41,7 +41,7 @@ This is an Android chat application that allows users to send and receive messag
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
