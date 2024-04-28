@@ -36,7 +36,7 @@ This is an Android chat application that allows users to send and receive messag
 <br/>
 <br/>
 
-- <img src="screenshots/chat.jpeg" alt="App chat screen" width="200px" height="300px">
+- <img src="screenshots/chat.jpg" alt="App chat screen" width="200px" height="300px">
 
 
 ## License
